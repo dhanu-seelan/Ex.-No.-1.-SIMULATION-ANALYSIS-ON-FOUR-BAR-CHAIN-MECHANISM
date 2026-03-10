@@ -53,10 +53,16 @@
 
 
 ## Output:
+<img width="476" height="382" alt="EX-01 velocity simulation" src="https://github.com/user-attachments/assets/fc417d6c-14df-4c60-a080-6cc9d19c6510" />
+<img width="469" height="263" alt="EX-01 Velocity variables" src="https://github.com/user-attachments/assets/8e6b9e5b-54ad-49b2-8d7c-a82a6fef7151" />
+<img width="480" height="379" alt="EX-01 Acceleration Simulation" src="https://github.com/user-attachments/assets/c46e169e-8e48-4fea-80cf-9b7eea25773f" />
+<img width="482" height="351" alt="EX-01 Acceleration Variables" src="https://github.com/user-attachments/assets/411825d5-8e18-4e51-b3e1-42763fc3cac3" />
 
 
-### Name:
-### Register Number: 
+
+
+### Name:Danaseelan G
+### Register Number: 212225040053
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
