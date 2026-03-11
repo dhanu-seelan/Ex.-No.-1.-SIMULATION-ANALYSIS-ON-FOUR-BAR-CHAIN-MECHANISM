@@ -20,11 +20,17 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+## Step 1. Establishment of the Fixed Link (Base):
+## Draw a horizontal line segment AD with a magnitude of 120 mm.
+## Engineering Significance: In product development, this represents the "Fixed Link" or the "Ground" of the mechanism. Mark the endpoints clearly as A and D.
+## Step 2: Angular Orientation of the Input Link:
+## Position the protractor at vertex A. Measure and mark an angle of 60° relative to the horizontal line AD.
+## Draw a line segment AB exactly 30 mm in length along this angular path.
+## Step 3: Determining the Coupler Point (C) via Triangulation
+## Since the position of point C depends on its distance from both B and D, we use the arc-intersection method:
+## From Point B: Adjust the compass to a radius of 120 mm (Length BC = AD). Draw a thin construction arc.
+## From Point D: Adjust the compass to a radius of 60 mm (Length CD). Draw a second arc that intersects the first one.Label the exact point of intersection as C.
+## Step 4: Final Assembly of the QuadrilateralJoin the points B to C and D to C using a dark pencil (HB) to finalize the profile.Verify the connectivity of all four links (AB, BC, CD, AD) to ensure the quadrilateral is closed and follows the given constraints. 
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
