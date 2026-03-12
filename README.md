@@ -54,10 +54,10 @@
 
 
 ## Output:
-<img width="280" height="304" alt="EX-01 Velocity Simulation" src="https://github.com/user-attachments/assets/35acbc6a-f443-467e-b264-89d197e4cc50" />
-<img width="469" height="263" alt="EX-01 Velocity variables" src="https://github.com/user-attachments/assets/8e6b9e5b-54ad-49b2-8d7c-a82a6fef7151" />
-<img width="480" height="255" alt="EX-01 Acceleration simulation" src="https://github.com/user-attachments/assets/8ef36a17-9307-4c0c-afba-6e8f2e83ad31" />
-<img width="482" height="351" alt="EX-01 Acceleration Variables" src="https://github.com/user-attachments/assets/411825d5-8e18-4e51-b3e1-42763fc3cac3" />
+<img width="280" height="304" alt="EX-01 Velocity Simulation" src="https://github.com/user-attachments/assets/914d4adb-6948-4072-bb94-d4373767a148" />
+<img width="469" height="263" alt="EX-01 Velocity variables" src="https://github.com/user-attachments/assets/d33e9cc2-e3cd-4e52-83fa-5e26a9d796bd" />
+<img width="480" height="255" alt="EX-01 Acceleration simulation" src="https://github.com/user-attachments/assets/d4b5622e-d551-42d9-8b5d-bb659596bb09" />
+<img width="482" height="351" alt="EX-01 Acceleration Variables" src="https://github.com/user-attachments/assets/dd910525-4285-44f6-a4f3-7a01a72a78b4" />
 
 
 
